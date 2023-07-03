@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "153907136411",
+    "firebase_url": "https://stayput-customer-default-rtdb.firebaseio.com",
+    "project_id": "stayput-customer",
+    "storage_bucket": "stayput-customer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153907136411:android:a51a2f1b975b5214f7c33e",
+        "android_client_info": {
+          "package_name": "com.stayput"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153907136411-ivu2s27mvnfr3mpj5lhe4b8vtuf4lf43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stayput",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "153907136411-n5m96d5ssfg41kl4h5tnd55dqokc4qj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stayput",
+            "certificate_hash": "0b61c518d09b45398bd4c1349cc5d81d79b9e73d"
+          }
+        },
+        {
+          "client_id": "153907136411-i63ubkjp9egrk5ujlmjebtdviatqfd7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6w-T77CRN6kK2wVLAt2zv_ZmE9DJMVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153907136411-b0n0de412hi1vngu2sbksal75ia72k5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153907136411-attipsmqkt5vukr5t8br60fsugaigeef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stayput.runner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153907136411:android:9466e8e76f5b1a10f7c33e",
+        "android_client_info": {
+          "package_name": "com.stayputrunner.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153907136411-i63ubkjp9egrk5ujlmjebtdviatqfd7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6w-T77CRN6kK2wVLAt2zv_ZmE9DJMVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153907136411-b0n0de412hi1vngu2sbksal75ia72k5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153907136411-attipsmqkt5vukr5t8br60fsugaigeef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stayput.runner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
